@@ -1,0 +1,97 @@
+1. Montalvo MJ, Bandey IN, Rezvan A, Wu KL, Saeedi A, Kulkarni R, Li Y, An X, Sefat KMSR, Varadarajan N. Decoding the mechanisms of chimeric antigen receptor (CAR) T cell-mediated killing of tumors: insights from granzyme and Fas inhibition. Cell Death & Disease. 2024;15(2):109. https://doi.org/10.1038/s41419-024-06461-8
+
+2. Lin MJ, Charytonowicz D, Brody J. Measuring T-cell/CAR T-cell bystander tumor killing in vitro and in vivo. Immuno-Oncology and Immunotherapy - Part F (Methods in Cell Biology). 2026;Vol. 201, pp. 55-75. https://doi.org/10.1016/bs.mcb.2025.03.021
+
+3. Benmebarek MR, Karches CH, Cadilha BL, Lesch S, Endres S, Kobold S. Killing Mechanisms of Chimeric Antigen Receptor (CAR) T Cells. International Journal of Molecular Sciences. 2019;20(6):1283. https://doi.org/10.3390/ijms20061283
+
+4. Korell F, Berger TR, Maus MV. Understanding CAR T cell-tumor interactions: Paving the way for successful clinical outcomes. Med. 2022;3(8):538-564. https://doi.org/10.1016/j.medj.2022.05.001
+
+5. Larson RC, Kann MC, Bailey SR, Haradhvala NJ, Llopis PM, Bouffard AA, Scarfó I, Leick MB, Grauwet K, Berger TR, Stewart K, Anekal PV, Jan M, Joung J, Schmidts A, Ouspenskaia T, Law T, Regev A, Getz G, Maus MV. CAR T cell killing requires the IFNγR pathway in solid but not liquid tumours. Nature. 2022;604(7906):563-570. https://doi.org/10.1038/s41586-022-04585-5
+
+6. Boulch M, Cazaux M, Cuffel A, Guerin MV, Garcia Z, Alonso R, Lemaître F, Beer A, Corre B, Menger L, Grandjean CL, Morin F, Thieblemont C, Caillat-Zucman S, Bousso P. Tumor-intrinsic sensitivity to the pro-apoptotic effects of IFN-γ is a major determinant of CD4+ CAR T-cell antitumor activity. Nature Cancer. 2023;4(7):968-983. https://doi.org/10.1038/s43018-023-00570-7
+
+7. Yu W, Truong NT, Polara R, Gargett T, Tea MN, Pitson SM, Cockshell MP, Bonder CS, Ebert LM, Brown MP. Endogenous bystander killing mechanisms enhance the activity of novel FAP‐specific CAR‐T cells against glioblastoma. Clinical & Translational Immunology. 2024;13(7):e1519. https://doi.org/10.1002/cti2.1519
+
+8. Pourzia AL, Olson ML, Bailey SR, Boroughs AC, Aryal A, Ryan J, Maus MV, Letai A. Quantifying requirements for mitochondrial apoptosis in CAR T killing of cancer cells. Cell Death & Disease. 2023;14(4):267. https://doi.org/10.1038/s41419-023-05727-x
+
+9. Pan R, Ryan J, Pan D, Wucherpfennig KW, Letai A. Augmenting NK cell-based immunotherapy by targeting mitochondrial apoptosis. Cell. 2022;185(9):1521-1538.e18. https://doi.org/10.1016/j.cell.2022.03.030
+
+10. Ryan JA, Brunelle JK, Letai A. Heightened mitochondrial priming is the basis for apoptotic hypersensitivity of CD4 + CD8 + thymocytes. Proceedings of the National Academy of Sciences. 2010;107(29):12895-12900. https://doi.org/10.1073/pnas.0914878107
+
+11. Chonghaile TN, Sarosiek KA, Vo TT, Ryan JA, Tammareddi A, Moore VDG, Deng J, Anderson KC, Richardson P, Tai YT, Mitsiades CS, Matulonis UA, Drapkin R, Stone R, DeAngelo DJ, McConkey DJ, Sallan SE, Silverman L, Hirsch MS, Carrasco DR, Letai A. Pretreatment Mitochondrial Priming Correlates with Clinical Response to Cytotoxic Chemotherapy. Science. 2011;334(6059):1129-1133. https://doi.org/10.1126/science.1206727
+
+12. Scaffidi C, Fulda S, Srinivasan A, Friesen C, Li F, Tomaselli KJ, Debatin KM, Krammer PH, Peter ME. Two CD95 (APO‐1/Fas) signaling pathways. The EMBO Journal. 1998;17(6):1675-1687. https://doi.org/10.1093/emboj/17.6.1675
+
+13. Karki R, Sharma BR, Tuladhar S, Williams EP, Zalduondo L, Samir P, Zheng M, Sundaram B, Banoth B, Malireddi RKS, Schreiner P, Neale G, Vogel P, Webby R, Jonsson CB, Kanneganti TD. Synergism of TNF-α and IFN-γ Triggers Inflammatory Cell Death, Tissue Damage, and Mortality in SARS-CoV-2 Infection and Cytokine Shock Syndromes. Cell. 2021;184(1):149-168.e17. https://doi.org/10.1016/j.cell.2020.11.025
+
+14. Deng B, Wang J, Yang T, Deng Z, Yuan J, Zhang B, Zhou Z, Chen F, Fang L, Liang C, Yan B, Ai Y. TNF and IFNγ-induced cell death requires IRF1 and ELAVL1 to promote CASP8 expression. Journal of Cell Biology. 2024;223(3):e202305026. https://doi.org/10.1083/jcb.202305026
+
+15. Malireddi RKS, Karki R, Sundaram B, Kancharana B, Lee S, Samir P, Kanneganti TD. Inflammatory Cell Death, PANoptosis, Mediated by Cytokines in Diverse Cancer Lineages Inhibits Tumor Growth. ImmunoHorizons. 2021;5(7):568-580. https://doi.org/10.4049/immunohorizons.2100059
+
+16. Wang Y, Kanneganti TD. From pyroptosis, apoptosis and necroptosis to PANoptosis: A mechanistic compendium of programmed cell death pathways. Computational and Structural Biotechnology Journal. 2021;19:4641-4657. https://doi.org/10.1016/j.csbj.2021.07.038
+
+17. Gao J, Xiong A, Liu J, Li X, Wang J, Zhang L, Liu Y, Xiong Y, Li G, He X. PANoptosis: bridging apoptosis, pyroptosis, and necroptosis in cancer progression and treatment. Cancer Gene Therapy. 2024;31(7):970-983. https://doi.org/10.1038/s41417-024-00765-9
+
+18. Oberst A, Dillon CP, Weinlich R, McCormick LL, Fitzgerald P, Pop C, Hakem R, Salvesen GS, Green DR. Catalytic activity of the caspase-8–FLIPL complex inhibits RIPK3-dependent necrosis. Nature. 2011;471(7338):363-367. https://doi.org/10.1038/nature09852
+
+19. Sun L, Wang H, Wang Z, He S, Chen S, Liao D, Wang L, Yan J, Liu W, Lei X, Wang X. Mixed Lineage Kinase Domain-like Protein Mediates Necrosis Signaling Downstream of RIP3 Kinase. Cell. 2012;148(1-2):213-227. https://doi.org/10.1016/j.cell.2011.11.031
+
+20. Wang H, Sun L, Su L, Rizo J, Liu L, Wang LF, Wang FS, Wang X. Mixed Lineage Kinase Domain-like Protein MLKL Causes Necrotic Membrane Disruption upon Phosphorylation by RIP3. Molecular Cell. 2014;54(1):133-146. https://doi.org/10.1016/j.molcel.2014.03.003
+
+21. Tsherniak A, Vazquez F, Montgomery PG, Weir BA, Kryukov G, Cowley GS, Gill S, Harrington WF, Pantel S, Krill-Burger JM, Meyers RM, Ali L, Goodale A, Lee Y, Jiang G, Hsiao J, Gerath WFJ, Howell S, Merkel E, Ghandi M, Garraway LA, Root DE, Golub TR, Boehm JS, Hahn WC. Defining a Cancer Dependency Map. Cell. 2017;170(3):564-576.e16. https://doi.org/10.1016/j.cell.2017.06.010
+
+22. Behan FM, Iorio F, Picco G, Gonçalves E, Beaver CM, Migliardi G, Santos R, Rao Y, Sassi F, Pinnelli M, Ansari R, Harper S, Jackson DA, McRae R, Pooley R, Wilkinson P, van der Meer D, Dow D, Buser-Doepner C, Bertotti A, Trusolino L, Stronach EA, Saez-Rodriguez J, Yusa K, Garnett MJ. Prioritization of cancer therapeutic targets using CRISPR–Cas9 screens. Nature. 2019;568(7753):511-516. https://doi.org/10.1038/s41586-019-1103-9
+
+23. Corsello SM, Nagari RT, Spangler RD, Rossen J, Kocak M, Bryan JG, Humeidi R, Peck D, Wu X, Tang AA, Wang VM, Bender SA, Lemire E, Narayan R, Montgomery P, Ben-David U, Garvie CW, Chen Y, Rees MG, Lyons NJ, McFarland JM, Wong BT, Wang L, Dumont N, O’Hearn PJ, Stefan E, Doench JG, Harrington CN, Greulich H, Meyerson M, Vazquez F, Subramanian A, Roth JA, Bittker JA, Boehm JS, Mader CC, Tsherniak A, Golub TR. Discovering the anticancer potential of non-oncology drugs by systematic viability profiling. Nature Cancer. 2020;1(2):235-248. https://doi.org/10.1038/s43018-019-0018-6
+
+24. Cui H, Zhao G, Lu Y, Zuo S, Duan D, Luo X, Zhao H, Li J, Zeng Z, Chen Q, Li T. TIMER3: an enhanced resource for tumor immune analysis. Nucleic Acids Research. 2025;53(W1):W534-W541. https://doi.org/10.1093/nar/gkaf388
+
+25. Schreiber RD, Old LJ, Smyth MJ. Cancer Immunoediting: Integrating Immunity’s Roles in Cancer Suppression and Promotion. Science. 2011;331(6024):1565-1570. https://doi.org/10.1126/science.1203486
+
+26. Koebel CM, Vermi W, Swann JB, Zerafa N, Rodig SJ, Old LJ, Smyth MJ, Schreiber RD. Adaptive immunity maintains occult cancer in an equilibrium state. Nature. 2007;450(7171):903-907. https://doi.org/10.1038/nature06309
+
+27. Zaretsky JM, Garcia-Diaz A, Shin DS, Escuin-Ordinas H, Hugo W, Hu-Lieskovan S, Torrejon DY, Abril-Rodriguez G, Sandoval S, Barthly L, Saco J, Homet Moreno B, Mezzadra R, Chmielowski B, Ruchalski K, Shintaku IP, Sanchez PJ, Puig-Saus C, Cherry G, Seja E, Kong X, Pang J, Berent-Maoz B, Comin-Anduix B, Graeber TG, Tumeh PC, Schumacher TNM, Lo RS, Ribas A. Mutations Associated with Acquired Resistance to PD-1 Blockade in Melanoma. New England Journal of Medicine. 2016;375(9):819-829. https://doi.org/10.1056/NEJMoa1604958
+
+28. Sade-Feldman M, Jiao YJ, Chen JH, Rooney MS, Barzily-Rokni M, Eliane JP, Bjorgaard SL, Hammond MR, Vitzthum H, Blackmon SM, Frederick DT, Hazar-Rethinam M, Nadres BA, Van Seventer EE, Shukla SA, Yizhak K, Ray JP, Rosebrock D, Livitz D, Adalsteinsson V, Getz G, Duncan LM, Li B, Corcoran RB, Lawrence DP, Stemmer-Rachamimov A, Boland GM, Landau DA, Flaherty KT, Sullivan RJ, Hacohen N. Resistance to checkpoint blockade therapy through inactivation of antigen presentation. Nature Communications. 2017;8(1):1136. https://doi.org/10.1038/s41467-017-01062-w
+
+29. Gettinger S, Choi J, Hastings K, Truini A, Datar I, Sowell R, Wurtz A, Dong W, Cai G, Melnick MA, Du VY, Schlessinger J, Goldberg SB, Chiang A, Sanmamed MF, Melero I, Agorreta J, Montuenga LM, Lifton R, Ferrone S, Kavathas P, Rimm DL, Kaech SM, Schalper K, Herbst RS, Politi K. Impaired HLA Class I Antigen Processing and Presentation as a Mechanism of Acquired Resistance to Immune Checkpoint Inhibitors in Lung Cancer. Cancer Discovery. 2017;7(12):1420-1435. https://doi.org/10.1158/2159-8290.CD-17-0593
+
+30. Patel SJ, Sanjana NE, Kishton RJ, Eidizadeh A, Vodnala SK, Cam M, Gartner JJ, Jia L, Steinberg SM, Yamamoto TN, Merchant AS, Mehta GU, Chichura A, Shalem O, Tran E, Eil R, Sukumar M, Guijarro EP, Day CP, Robbins P, Feldman S, Merlino G, Zhang F, Restifo NP. Identification of essential genes for cancer immunotherapy. Nature. 2017;548(7669):537-542. https://doi.org/10.1038/nature23477
+
+31. Manguso RT, Pope HW, Zimmer MD, Brown FD, Yates KB, Miller BC, Collins NB, Bi K, LaFleur MW, Juneja VR, Weiss SA, Lo J, Fisher DE, Miao D, Van Allen E, Root DE, Sharpe AH, Doench JG, Haining WN. In vivo CRISPR screening identifies Ptpn2 as a cancer immunotherapy target. Nature. 2017;547(7664):413-418. https://doi.org/10.1038/nature23270
+
+32. Litchfield K, Reading JL, Puttick C, Thakkar K, Abbosh C, Bentham R, Watkins TBK, Rosenthal R, Biswas D, Rowan A, Lim E, Al Bakir M, Turati V, Guerra-Assunção JA, Conde L, Furness AJS, Saini SK, Hadrup SR, Herrero J, Lee SH, Van Loo P, Enver T, Larkin J, Hellmann MD, Turajlic S, Quezada SA, McGranahan N, Swanton C. Meta-analysis of tumor- and T cell-intrinsic mechanisms of sensitization to checkpoint inhibition. Cell. 2021;184(3):596-614.e14. https://doi.org/10.1016/j.cell.2021.01.002
+
+33. Maude SL, Laetsch TW, Buechner J, Rives S, Boyer M, Bittencourt H, Bader P, Verneris MR, Stefanski HE, Myers GD, Qayed M, De Moerloose B, Hiramatsu H, Schlis K, Davis KL, Martin PL, Nemecek ER, Yanik GA, Peters C, Baruchel A, Boissel N, Mechinaud F, Balduzzi A, Krueger J, June CH, Levine BL, Wood P, Taran T, Leung M, Mueller KT, Zhang Y, Sen K, Lebwohl D, Pulsipher MA, Grupp SA. Tisagenlecleucel in Children and Young Adults with B-Cell Lymphoblastic Leukemia. New England Journal of Medicine. 2018;378(5):439-448. https://doi.org/10.1056/NEJMoa1709866
+
+34. Neelapu SS, Locke FL, Bartlett NL, Lekakis LJ, Miklos DB, Jacobson CA, Braunschweig I, Oluwole OO, Siddiqi T, Lin Y, Timmerman JM, Stiff PJ, Friedberg JW, Flinn IW, Goy A, Hill BT, Smith MR, Deol A, Farooq U, McSweeney P, Munoz J, Avivi I, Castro JE, Westin JR, Chavez JC, Ghobadi A, Komanduri KV, Levy R, Jacobsen ED, Witzig TE, Reagan P, Bot A, Rossi J, Navale L, Jiang Y, Aycock J, Elias M, Chang D, Wiezorek J, Go WY. Axicabtagene Ciloleucel CAR T-Cell Therapy in Refractory Large B-Cell Lymphoma. New England Journal of Medicine. 2017;377(26):2531-2544. https://doi.org/10.1056/NEJMoa1707447
+
+35. Qi C, Liu C, Gong J, Liu D, Wang X, Zhang P, Qin Y, Ge S, Zhang M, Peng Z, Zhou J, Lu Z, Lu M, Cao Y, Yuan J, Wang Y, Wang Z, Xue R, Peng X, Wang Y, Yuan D, Li J, Zhang X, Shen L. Claudin18.2-specific CAR T cells in gastrointestinal cancers: phase 1 trial final results. Nature Medicine. 2024;30(8):2224-2234. https://doi.org/10.1038/s41591-024-03037-z
+
+36. Majzner RG, Ramakrishna S, Yeom KW, Patel S, Chinnasamy H, Schultz LM, Richards RM, Jiang L, Barsan V, Mancusi R, Geraghty AC, Good Z, Mochizuki AY, Gillespie SM, Toland AMS, Mahdi J, Reschke A, Nie EH, Chau IJ, Rotiroti MC, Mount CW, Baggott C, Mavroukakis S, Egeler E, Moon J, Erickson C, Green S, Kunicki M, Fujimoto M, Ehlinger Z, Reynolds W, Kurra S, Warren KE, Prabhu S, Vogel H, Rasmussen L, Cornell TT, Partap S, Fisher PG, Campen CJ, Filbin MG, Grant G, Sahaf B, Davis KL, Feldman SA, Mackall CL, Monje M. GD2-CAR T cell therapy for H3K27M-mutated diffuse midline gliomas. Nature. 2022;603(7903):934-941. https://doi.org/10.1038/s41586-022-04489-4
+
+37. Mahadevan KK, LeBleu VS, Ramirez EV, Chen Y, Li B, Sockwell AM, Gagea M, Sugimoto H, Sthanam LK, Tampe D, Zeisberg M, Ying H, Jain AK, DePinho RA, Maitra A, McAndrews KM, Kalluri R. Elimination of oncogenic KRAS in genetic mouse models eradicates pancreatic cancer by inducing FAS-dependent apoptosis by CD8+ T cells. Developmental Cell. 2023;58(17):1562-1577.e8. https://doi.org/10.1016/j.devcel.2023.07.025
+
+38. Upadhyay R, Boiarsky JA, Pantsulaia G, Svensson-Arvelund J, Lin MJ, Wroblewska A, Bhalla S, Scholler N, Bot A, Rossi JM, Sadek N, Parekh S, Lagana A, Baccarini A, Merad M, Brown BD, Brody JD. A Critical Role for Fas-Mediated Off-Target Tumor Killing in T-cell Immunotherapy. Cancer Discovery. 2021;11(3):599-613. https://doi.org/10.1158/2159-8290.CD-20-0756
+
+39. Barlev NA, Sayan BS, Candi E, Okorokov AL. The microRNA and p53 families join forces against cancer. Cell Death & Differentiation. 2010;17(2):373-375. https://doi.org/10.1038/cdd.2009.73
+
+40. Müller M, Wilder S, Bannasch D, Israeli D, Lehlbach K, Li-Weber M, Friedman SL, Galle PR, Stremmel W, Oren M, Krammer PH. p53 Activates the CD95 (APO-1/Fas) Gene in Response to DNA Damage by Anticancer Drugs. The Journal of Experimental Medicine. 1998;188(11):2033-2045. https://doi.org/10.1084/jem.188.11.2033
+
+41. Łasut-Szyszka B, Gdowicz-Kłosok A, Krześniak M, Głowala-Kosińska M, Będzińska A, Rusin M. Strong activation of p53 by actinomycin D and nutlin-3a overcomes the resistance of cancer cells to the pro-apoptotic activity of the FAS ligand. Apoptosis. 2024;29(9-10):1515-1528. https://doi.org/10.1007/s10495-024-02000-0
+
+42. Davidovich P, Aksenova V, Petrova V, Tentler D, Orlova D, Smirnov S, Gurzhiy V, Okorokov AL, Garabadzhiu A, Melino G, Barlev N, Tribulovich V. Discovery of Novel Isatin-Based p53 Inducers. ACS Medicinal Chemistry Letters. 2015;6(8):856-860. https://doi.org/10.1021/acsmedchemlett.5b00011
+
+43. Benci JL, Xu B, Qiu Y, Wu TJ, Dada H, Twyman-Saint Victor C, Cucolo L, Lee DSM, Pauken KE, Huang AC, Gangadhar TC, Amaravadi RK, Schuchter LM, Feldman MD, Ishwaran H, Vonderheide RH, Maity A, Wherry EJ, Minn AJ. Tumor Interferon Signaling Regulates a Multigenic Resistance Program to Immune Checkpoint Blockade. Cell. 2016;167(6):1540-1554.e12. https://doi.org/10.1016/j.cell.2016.11.022
+
+44. Koo GB, Morgan MJ, Lee DG, Kim WJ, Yoon JH, Koo JS, Kim SI, Kim SJ, Son MK, Hong SS, Levy JMM, Pollyea DA, Jordan CT, Yan P, Frankhouser D, Nicolet D, Maharry K, Marcucci G, Choi KS, Cho H, Thorburn A, Kim YS. Methylation-dependent loss of RIP3 expression in cancer represses programmed necrosis in response to chemotherapeutics. Cell Research. 2015;25(6):707-725. https://doi.org/10.1038/cr.2015.56
+
+45. Yatim N, Jusforgues-Saklani H, Orozco S, Schulz O, Barreira da Silva R, Reis e Sousa C, Green DR, Oberst A, Albert ML. RIPK1 and NF-κB signaling in dying cells determines cross-priming of CD8+ T cells. Science. 2015;350(6258):328-334. https://doi.org/10.1126/science.aad0395
+
+46. Aaes TL, Kaczmarek A, Delvaeye T, De Craene B, De Koker S, Heyndrickx L, Delrue I, Taminau J, Wiernicki B, De Groote P, Garg AD, Leybaert L, Grooten J, Bertrand MJM, Agostinis P, Berx G, Declercq W, Vandenabeele P, Krysko DV. Vaccination with Necroptotic Cancer Cells Induces Efficient Anti-tumor Immunity. Cell Reports. 2016;15(2):274-287. https://doi.org/10.1016/j.celrep.2016.03.037
+
+47. Galluzzi L, Buqué A, Kepp O, Zitvogel L, Kroemer G. Immunogenic cell death in cancer and infectious disease. Nature Reviews Immunology. 2017;17(2):97-111. https://doi.org/10.1038/nri.2016.107
+
+48. Wang Y, Gao W, Shi X, Ding J, Liu W, He H, Wang K, Shao F. Chemotherapy drugs induce pyroptosis through caspase-3 cleavage of a gasdermin. Nature. 2017;547(7661):99-103. https://doi.org/10.1038/nature22393
+
+49. Zhang Z, Zhang Y, Xia S, Kong Q, Li S, Liu X, Junqueira C, Meza-Sosa KF, Mok TMY, Ansara J, Sengupta S, Yao Y, Wu H, Lieberman J. Gasdermin E suppresses tumour growth by activating anti-tumour immunity. Nature. 2020;579(7799):415-420. https://doi.org/10.1038/s41586-020-2071-9

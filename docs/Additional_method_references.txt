@@ -1,0 +1,17 @@
+Seashore-Ludlow B, Rees MG, Cheah JH, Cokol M, Price EV, Coletti ME, et al. Harnessing Connectivity in a Large-Scale Small-Molecule Sensitivity Dataset. Cancer discovery. 2015;5:1210-1223. https://doi.org/10.1158/2159-8290.cd-15-0235
+
+Rees MG, Seashore-Ludlow B, Cheah JH, Adams DJ, Price EV, Gill S, et al. Correlating chemical sensitivity and basal gene expression reveals mechanism of action. Nature chemical biology. 2016;12:109-116. https://doi.org/10.1038/nchembio.1986
+
+Basu A, Bodycombe NE, Cheah JH, Price EV, Liu K, Schaefer GI, et al. An interactive resource to identify cancer genetic and lineage dependencies targeted by small molecules. Cell. 2013;154:1151-1161. https://doi.org/10.1016/j.cell.2013.08.003
+
+Liberzon A, Birger C, Thorvaldsdóttir H, Ghandi M, Mesirov JP, Tamayo P. The Molecular Signatures Database (MSigDB) hallmark gene set collection. Cell systems. 2015;1:417-425. https://doi.org/10.1016/j.cels.2015.12.004
+
+Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA, et al. Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proceedings of the National Academy of Sciences of the United States of America. 2005;102:15545-15550. https://doi.org/10.1073/pnas.0506580102
+
+Hao Y, Stuart T, Kowalski MH, Choudhary S, Hoffman P, Hartman A, et al. Dictionary learning for integrative, multimodal and scalable single-cell analysis. Nature biotechnology. 2024;42:293-304. https://doi.org/10.1038/s41587-023-01767-y
+
+Korotkevich G, Sukhov V, Budin N, Shpak B, Artyomov MN, Sergushichev A. Fast gene set enrichment analysis. bioRxiv. 2021;060012. Preprint. https://doi.org/10.1101/060012
+
+Ghandi M, Huang FW, Jané-Valbuena J, Kryukov GV, Lo CC, McDonald ER III, et al. Next-generation characterization of the Cancer Cell Line Encyclopedia. Nature. 2019;569(7757):503-508. https://doi.org/10.1038/s41586-019-1186-3
+
+Gene Ontology Consortium, Aleksander SA, Balhoff J, Carbon S, et al. The Gene Ontology knowledgebase in 2023. Genetics. 2023;224(1):iyad031. https://doi.org/10.1093/genetics/iyad031

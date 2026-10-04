@@ -1,0 +1,50 @@
+number,doi,registry_title,journal,year,volume,issue,pages,pubmed_id
+1,10.1038/s41419-024-06461-8,Decoding the mechanisms of chimeric antigen receptor (CAR) T cell-mediated killing of tumors: insights from granzyme and Fas inhibition,Cell death & disease,2024,15,2,109,38307835
+2,10.1016/bs.mcb.2025.03.021,Measuring T-cell/CAR T-cell bystander tumor killing in vitro and in vivo,Methods in cell biology,2026,201,,55-75,41620283
+3,10.3390/ijms20061283,Killing Mechanisms of Chimeric Antigen Receptor (CAR) T Cells,International journal of molecular sciences,2019,20,6,E1283,30875739
+4,10.1016/j.medj.2022.05.001,Understanding CAR T cell-tumor interactions: Paving the way for successful clinical outcomes,"Med (New York, N.Y.)",2022,3,8,538-564,35963235
+5,10.1038/s41586-022-04585-5,CAR T cell killing requires the IFNγR pathway in solid but not liquid tumours,Nature,2022,604,7906,563-570,35418687
+6,10.1038/s43018-023-00570-7,Tumor-intrinsic sensitivity to the pro-apoptotic effects of IFN-γ is a major determinant of CD4+ CAR T-cell antitumor activity,Nature cancer,2023,4,7,968-983,37248395
+7,10.1002/cti2.1519,Endogenous bystander killing mechanisms enhance the activity of novel FAP-specific CAR-T cells against glioblastoma,Clinical & translational immunology,2024,13,7,e1519,38975278
+8,10.1038/s41419-023-05727-x,Quantifying requirements for mitochondrial apoptosis in CAR T killing of cancer cells,Cell death & disease,2023,14,4,267,37055388
+9,10.1016/j.cell.2022.03.030,Augmenting NK cell-based immunotherapy by targeting mitochondrial apoptosis,Cell,2022,185,9,1521-1538.e18,35447071
+10,10.1073/pnas.0914878107,Heightened mitochondrial priming is the basis for apoptotic hypersensitivity of CD4+ CD8+ thymocytes,Proceedings of the National Academy of Sciences of the United States of America,2010,107,29,12895-12900,20615979
+11,10.1126/science.1206727,Pretreatment mitochondrial priming correlates with clinical response to cytotoxic chemotherapy,"Science (New York, N.Y.)",2011,334,6059,1129-1133,22033517
+12,10.1093/emboj/17.6.1675,Two CD95 (APO-1/Fas) signaling pathways,The EMBO journal,1998,17,6,1675-1687,9501089
+13,10.1016/j.cell.2020.11.025,"Synergism of TNF-α and IFN-γ Triggers Inflammatory Cell Death, Tissue Damage, and Mortality in SARS-CoV-2 Infection and Cytokine Shock Syndromes",Cell,2021,184,1,149-168.e17,33278357
+14,10.1083/jcb.202305026,TNF and IFNγ-induced cell death requires IRF1 and ELAVL1 to promote CASP8 expression,The Journal of cell biology,2024,223,3,e202305026,38319288
+15,10.4049/immunohorizons.2100059,"Inflammatory Cell Death, PANoptosis, Mediated by Cytokines in Diverse Cancer Lineages Inhibits Tumor Growth",ImmunoHorizons,2021,5,7,568-580,34290111
+16,10.1016/j.csbj.2021.07.038,"From pyroptosis, apoptosis and necroptosis to PANoptosis: A mechanistic compendium of programmed cell death pathways",Computational and structural biotechnology journal,2021,19,,4641-4657,34504660
+17,10.1038/s41417-024-00765-9,"PANoptosis: bridging apoptosis, pyroptosis, and necroptosis in cancer progression and treatment",Cancer gene therapy,2024,31,7,970-983,38553639
+18,10.1038/nature09852,Catalytic activity of the caspase-8-FLIP(L) complex inhibits RIPK3-dependent necrosis,Nature,2011,471,7338,363-367,21368763
+19,10.1016/j.cell.2011.11.031,Mixed lineage kinase domain-like protein mediates necrosis signaling downstream of RIP3 kinase,Cell,2012,148,1-2,213-227,22265413
+20,10.1016/j.molcel.2014.03.003,Mixed lineage kinase domain-like protein MLKL causes necrotic membrane disruption upon phosphorylation by RIP3,Molecular cell,2014,54,1,133-146,24703947
+21,10.1016/j.cell.2017.06.010,Defining a Cancer Dependency Map,Cell,2017,170,3,564-576.e16,28753430
+22,10.1038/s41586-019-1103-9,Prioritization of cancer therapeutic targets using CRISPR-Cas9 screens,Nature,2019,568,7753,511-516,30971826
+23,10.1038/s43018-019-0018-6,Discovering the anti-cancer potential of non-oncology drugs by systematic viability profiling,Nature cancer,2020,1,2,235-248,32613204
+24,10.1093/nar/gkaf388,TIMER3: an enhanced resource for tumor immune analysis,Nucleic acids research,2025,53,W1,W534-W541,40337924
+25,10.1126/science.1203486,Cancer immunoediting: integrating immunity's roles in cancer suppression and promotion,"Science (New York, N.Y.)",2011,331,6024,1565-1570,21436444
+26,10.1038/nature06309,Adaptive immunity maintains occult cancer in an equilibrium state,Nature,2007,450,7171,903-907,18026089
+27,10.1056/NEJMoa1604958,Mutations Associated with Acquired Resistance to PD-1 Blockade in Melanoma,The New England journal of medicine,2016,375,9,819-829,27433843
+28,10.1038/s41467-017-01062-w,Resistance to checkpoint blockade therapy through inactivation of antigen presentation,Nature communications,2017,8,1,1136,29070816
+29,10.1158/2159-8290.CD-17-0593,Impaired HLA Class I Antigen Processing and Presentation as a Mechanism of Acquired Resistance to Immune Checkpoint Inhibitors in Lung Cancer,Cancer discovery,2017,7,12,1420-1435,29025772
+30,10.1038/nature23477,Identification of essential genes for cancer immunotherapy,Nature,2017,548,7669,537-542,28783722
+31,10.1038/nature23270,In vivo CRISPR screening identifies Ptpn2 as a cancer immunotherapy target,Nature,2017,547,7664,413-418,28723893
+32,10.1016/j.cell.2021.01.002,Meta-analysis of tumor- and T cell-intrinsic mechanisms of sensitization to checkpoint inhibition,Cell,2021,184,3,596-614.e14,33508232
+33,10.1056/NEJMoa1709866,Tisagenlecleucel in Children and Young Adults with B-Cell Lymphoblastic Leukemia,The New England journal of medicine,2018,378,5,439-448,29385370
+34,10.1056/NEJMoa1707447,Axicabtagene Ciloleucel CAR T-Cell Therapy in Refractory Large B-Cell Lymphoma,The New England journal of medicine,2017,377,26,2531-2544,29226797
+35,10.1038/s41591-024-03037-z,Claudin18.2-specific CAR T cells in gastrointestinal cancers: phase 1 trial final results,Nature medicine,2024,30,8,2224-2234,38830992
+36,10.1038/s41586-022-04489-4,GD2-CAR T cell therapy for H3K27M-mutated diffuse midline gliomas,Nature,2022,603,7903,934-941,35130560
+37,10.1016/j.devcel.2023.07.025,Elimination of oncogenic KRAS in genetic mouse models eradicates pancreatic cancer by inducing FAS-dependent apoptosis by CD8<sup>+</sup> T cells,Developmental cell,2023,58,17,1562-1577.e8,37625403
+38,10.1158/2159-8290.CD-20-0756,A Critical Role for Fas-Mediated Off-Target Tumor Killing in T-cell Immunotherapy,Cancer discovery,2021,11,3,599-613,33334730
+39,10.1038/cdd.2009.73,The microRNA and p53 families join forces against cancer,Cell death and differentiation,2010,17,2,373-375,20062068
+40,10.1084/jem.188.11.2033,p53 activates the CD95 (APO-1/Fas) gene in response to DNA damage by anticancer drugs,The Journal of experimental medicine,1998,188,11,2033-2045,9841917
+41,10.1007/s10495-024-02000-0,Strong activation of p53 by actinomycin D and nutlin-3a overcomes the resistance of cancer cells to the pro-apoptotic activity of the FAS ligand,Apoptosis : an international journal on programmed cell death,2024,29,9-10,1515-1528,39068622
+42,10.1021/acsmedchemlett.5b00011,Discovery of Novel Isatin-Based p53 Inducers,ACS medicinal chemistry letters,2015,6,8,856-860,26288684
+43,10.1016/j.cell.2016.11.022,Tumor Interferon Signaling Regulates a Multigenic Resistance Program to Immune Checkpoint Blockade,Cell,2016,167,6,1540-1554.e12,27912061
+44,10.1038/cr.2015.56,Methylation-dependent loss of RIP3 expression in cancer represses programmed necrosis in response to chemotherapeutics,Cell research,2015,25,6,707-725,25952668
+45,10.1126/science.aad0395,RIPK1 and NF-κB signaling in dying cells determines cross-priming of CD8⁺ T cells,"Science (New York, N.Y.)",2015,350,6258,328-334,26405229
+46,10.1016/j.celrep.2016.03.037,Vaccination with Necroptotic Cancer Cells Induces Efficient Anti-tumor Immunity,Cell reports,2016,15,2,274-287,27050509
+47,10.1038/nri.2016.107,Immunogenic cell death in cancer and infectious disease,Nature reviews. Immunology,2017,17,2,97-111,27748397
+48,10.1038/nature22393,Chemotherapy drugs induce pyroptosis through caspase-3 cleavage of a gasdermin,Nature,2017,547,7661,99-103,28459430
+49,10.1038/s41586-020-2071-9,Gasdermin E suppresses tumour growth by activating anti-tumour immunity,Nature,2020,579,7799,415-420,32188940
