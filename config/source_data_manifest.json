@@ -1,0 +1,148 @@
+[
+  {
+    "path": "data/source/depmap/Model.csv",
+    "bytes": 699474,
+    "sha256": "9dbb9de8805696c1345816ab07edd23fb4fd95e117739f3c5c3b1cf062c1233b"
+  },
+  {
+    "path": "data/source/depmap/OmicsExpressionTPMLogp1HumanProteinCodingGenes.csv",
+    "bytes": 543026959,
+    "sha256": "9d7e64ebbcb2811fa5e0ecf56d952ee96ca9f1f2b6ead00bb17480c1c01848d1"
+  },
+  {
+    "path": "data/source/figure2/Immunotherapy_outcome_PANoptosis.csv",
+    "bytes": 1693802,
+    "sha256": "35ae00b7027108c57ee88a6e388f40f51af0abd779cdc00ffd68d44257e0ee72"
+  },
+  {
+    "path": "data/source/figure2/outcome_table_infiltration.csv",
+    "bytes": 168838,
+    "sha256": "f1e30e1577abccf8f54790f452c8a44e72bab0570de8d6c79ccd26c99a8cbd07"
+  },
+  {
+    "path": "data/source/figure2/Prediction model_Immunotherapy_ROC_table.csv",
+    "bytes": 17228,
+    "sha256": "7a5993a6e47aa17c260a99b7d0da83837df178d81168135a641ef8ca7a07e660"
+  },
+  {
+    "path": "data/source/figure4/Cytokines.xlsx",
+    "bytes": 2094267,
+    "sha256": "19304fbb7c8d678fed8b8b0a5f00ab05eba08ba5474bf2c2782bd291c5519d79",
+    "original_archive_sha256": "c07b429df30c8bf3dba04e04e72916079b321ce6021ba1edd506ddedbfa36df9",
+    "original_archive_bytes": 2366495,
+    "metadata_change": "English workbook labels and removal of local save-directory metadata; worksheet cell data unchanged",
+    "worksheet_cell_data_sha256": {
+      "xl/worksheets/sheet1.xml": "70ebeb676e3a40538fc9a652f0efe353a774f7f2ccf8d25a8a2315bd417c5c6f"
+    }
+  },
+  {
+    "path": "data/source/figure4/cytokine_filtered_formatted.xlsx",
+    "bytes": 95880,
+    "sha256": "38baab5b6c769b82142c7fdbc6fa44e9ca1f0cb7b50376b11671c5f209953d48",
+    "original_archive_sha256": "7169c1ba5d6aca3e97e50a7f39502dd6d2c5c1718ba6b27a41d7cea7260fc8af",
+    "original_archive_bytes": 104590,
+    "metadata_change": "English workbook labels and removal of local save-directory metadata; worksheet cell data unchanged",
+    "worksheet_cell_data_sha256": {
+      "xl/worksheets/sheet1.xml": "8b1f61f72f0469bb74b6340c295ef684224d2695cd1e564a0c539b94664cac2a"
+    }
+  },
+  {
+    "path": "data/source/figure4/RNAseq_filtered_without_tcell_genes.csv",
+    "bytes": 1782067,
+    "sha256": "26ed2fe70adca297a6aaf0ce61f9d1f75f00be9484defe70472bdf7227300086"
+  },
+  {
+    "path": "data/source/figure4/tcells_filtered_formatted.xlsx",
+    "bytes": 44058,
+    "sha256": "6b38d3de3c345a951e0bd5b2ede5ce69a652c9ce1e11252aa162f51ad189746a",
+    "original_archive_sha256": "72aaa0fe2cc8bd0f76f4bb59573a14b294134ed44ad28e8e999f067e56a67e24",
+    "original_archive_bytes": 49001,
+    "metadata_change": "English workbook labels and removal of local save-directory metadata; worksheet cell data unchanged",
+    "worksheet_cell_data_sha256": {
+      "xl/worksheets/sheet1.xml": "410e63dffaac1576b81225e239e6b248df082e06503927fa271d214d48fa9796"
+    }
+  },
+  {
+    "path": "data/source/figureS1G/v22.data.auc_sensitivities.txt",
+    "bytes": 4017618,
+    "sha256": "c4174ac2deb7c16e64f3a898cf3234f94cef48cf82f71c57453e433b986f2976"
+  },
+  {
+    "path": "data/source/figureS1G/v22.meta.per_cell_line.txt",
+    "bytes": 90191,
+    "sha256": "45787280209203b2d5eeb3c96a12077b86484790fea3d6a244e5a0c0b8d83c98"
+  },
+  {
+    "path": "data/source/figureS1G/v22.meta.per_compound.txt",
+    "bytes": 92615,
+    "sha256": "666ca98fb7f955e15dee48c0200fb44c60986447c7491ae26f13c10c06862814"
+  },
+  {
+    "path": "data/source/single_cell/Supplementary_Table_S1_Tcells_IL2.xlsx",
+    "bytes": 3615124,
+    "sha256": "a6f0282dcc3255ffe3aeafa0530097dc283531bb575a3742d00507d51e2ba250",
+    "original_archive_sha256": "a09dc3c94cedd5c4c2ff19484e9680a26e4fce5738bd1cfedb8eccd452b6fb21",
+    "original_archive_bytes": 4497569,
+    "metadata_change": "English workbook labels and removal of local save-directory metadata; worksheet cell data unchanged",
+    "worksheet_cell_data_sha256": {
+      "xl/worksheets/sheet4.xml": "9afd81a586ba4ed4ec1d5fa1f5b91c2b0c5d4ac7f0aa8ed95f9ee14e0018a68c",
+      "xl/worksheets/sheet2.xml": "bbe1be089990f705b6bcdd4fd2f1c6087b5b13b9724753f9fb56d77a4e2ae2c1",
+      "xl/worksheets/sheet3.xml": "9937a67b76447486c5271ae265e602fb7267e398fe6f064db04faf900cdadcb8",
+      "xl/worksheets/sheet5.xml": "25a909e7b53d0dc8e313f3efb42e4863e68bfb900763ea853556b6700edb09ab",
+      "xl/worksheets/sheet6.xml": "dd69234bf76528db91dd58788b426025869a282b379a67f14227abe4e6823040",
+      "xl/worksheets/sheet7.xml": "37e1174d11fcf47c9d94d509071f4667d640e4aee44937cc0163b88ef2ad6d8a",
+      "xl/worksheets/sheet1.xml": "f31509e732e423de171b6100697f3df873625c0938a555da408f5b456a1ad557"
+    }
+  },
+  {
+    "path": "data/source/single_cell/Supplementary_Table_S2_Tcells_HeLa_coculture_rep1.xlsx",
+    "bytes": 7475160,
+    "sha256": "0ea86c81318fde4dd3478435ae741443452b6c0dbe3b8d9f50494e2f20f90d4e",
+    "original_archive_sha256": "041a8037a467078ac0de69711814ab00ca2049b0913b1b9f7558ff63308221af",
+    "original_archive_bytes": 9409781,
+    "metadata_change": "English workbook labels and removal of local save-directory metadata; worksheet cell data unchanged",
+    "worksheet_cell_data_sha256": {
+      "xl/worksheets/sheet4.xml": "96a8d41a18939d2e8f4d61c47a0a9f337eeba105c8cb0be108b5481615625d6e",
+      "xl/worksheets/sheet2.xml": "e83158c3f54147cdfcdb779e1d90ab37dbeabf004fe663d410427f48f287f15f",
+      "xl/worksheets/sheet3.xml": "16afcd9dbf2ed9fa47461f228008f787fb5c755568f54d58b629afe0b1e51b19",
+      "xl/worksheets/sheet5.xml": "21fe7a97e65cb8a8788f6e3c13d9b9a6f3c4cd5548686bf4d7f73cb8918c73f8",
+      "xl/worksheets/sheet6.xml": "ee264fe2fc86705ae697b77c98d7330456e11e646356d7e34fe1081010c7f541",
+      "xl/worksheets/sheet7.xml": "640ea00a06a4a7483e827e593b7ced73325c945fb6a550d638939995f425b9b7",
+      "xl/worksheets/sheet1.xml": "86c785b4d00f07f19d7e7b5c0e3f7540dc8dbc1ff5b449706199c06eca2aeb00"
+    }
+  },
+  {
+    "path": "data/source/single_cell/Supplementary_Table_S3_Tcells_HeLa_coculture_rep2.xlsx",
+    "bytes": 12074952,
+    "sha256": "e2a6f6dee1d626684824f5818980a3b1eec35f4ec1803e362fd6f157b6e92337",
+    "original_archive_sha256": "b6098db86f88b4cc1c5a83c48c0aa15968d5b449ca36c2e94a73e2868ffd67ca",
+    "original_archive_bytes": 15306736,
+    "metadata_change": "English workbook labels and removal of local save-directory metadata; worksheet cell data unchanged",
+    "worksheet_cell_data_sha256": {
+      "xl/worksheets/sheet4.xml": "0ec055ae9372b78e79f77aa40ea8f886c7036670f86f8b42d666b26afbf810c6",
+      "xl/worksheets/sheet2.xml": "acdf90aebf2854e28c5e6d819c7117190d40dd549c2f907a7915fe735bacccdf",
+      "xl/worksheets/sheet3.xml": "d0305a39560eb3f96b25067a9378aab3d607f4ede2a9e4a55e213dd61bb8abe6",
+      "xl/worksheets/sheet5.xml": "6c42a9c973fc34b7875d748f5761e5161a641479719b819dbc377f5679f4ed87",
+      "xl/worksheets/sheet6.xml": "755da5a4ac0744674dfac4803cb965ccdec02025c7535cd3bfea5b382144951a",
+      "xl/worksheets/sheet7.xml": "f8d0176858bb812cbbe06c7079b1de53b6fbc9f06b723bd633c624a11c12a545",
+      "xl/worksheets/sheet1.xml": "ddfe269e6396576437a916f0b5a4f1528814252597160e8c386566ede271c375"
+    }
+  },
+  {
+    "path": "data/source/single_cell/Supplementary_Table_S4_Tcells_noIL2.xlsx",
+    "bytes": 12447151,
+    "sha256": "2031fefaedd38e3179e2d87292b9398fe330e1bb5c3d3ff04929d171180f2ac3",
+    "original_archive_sha256": "8432690c33c17f39fb3b1b9a8503ae3b28544e994e38bfe7131f466b7ac8feb7",
+    "original_archive_bytes": 15818776,
+    "metadata_change": "English workbook labels and removal of local save-directory metadata; worksheet cell data unchanged",
+    "worksheet_cell_data_sha256": {
+      "xl/worksheets/sheet4.xml": "b254ad198636229b921ce50fca0f5ea199dc46bb4c4b04e64881c6050ee79da9",
+      "xl/worksheets/sheet2.xml": "25c570aab3c70b988f7448ac54599f9533fba13d6a8eef8fbaa76f86e7b8345b",
+      "xl/worksheets/sheet3.xml": "47a9d3028b74c4b6246c3585d099382125c4f4759423edceddfdca43f14d38bf",
+      "xl/worksheets/sheet1.xml": "63906a03b01a29580b664473ec5937ebf5baa67cd59381156e8556ff7e8b035b",
+      "xl/worksheets/sheet5.xml": "efde1ba631387ea707225385296e656ac945f9fd07ff7cd852af750d58584d9a",
+      "xl/worksheets/sheet6.xml": "bfad2739c3cce07cd43cecc7a15fb4778116cebca652208ba0f3cfe7088e9116",
+      "xl/worksheets/sheet7.xml": "7f84ffc36bc2192007f03ae613caee3f9a4762d9fd81ffdf64f13992bd031def"
+    }
+  }
+]

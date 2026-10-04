@@ -1,0 +1,289 @@
+{
+  "bulk": {
+    "base_mean_min": 30,
+    "absolute_log2_fold_change_min": 1,
+    "adjusted_p_max": 0.05,
+    "gsea_base_mean_min": 10,
+    "finite_effects_required_for_gene_lists": true
+  },
+  "depmap_modules": {
+    "TNF_IFN_input": [
+      "TNFRSF1A",
+      "IFNGR1",
+      "IFNGR2",
+      "STAT1",
+      "IRF1",
+      "JAK1",
+      "JAK2"
+    ],
+    "Apoptosis": [
+      "FAS",
+      "FASLG",
+      "FADD",
+      "CASP8",
+      "CASP3",
+      "CASP7",
+      "CASP9",
+      "BAX",
+      "BAK1",
+      "APAF1"
+    ],
+    "Necroptosis": [
+      "RIPK1",
+      "RIPK3",
+      "MLKL"
+    ],
+    "Pyroptosis_inflammasome": [
+      "CASP1",
+      "CASP4",
+      "CASP5",
+      "GSDMD",
+      "GSDME",
+      "PYCARD",
+      "NLRP3",
+      "AIM2",
+      "IL18"
+    ],
+    "Survival_brakes": [
+      "BCL2",
+      "BCL2L1",
+      "MCL1",
+      "CFLAR",
+      "XIAP",
+      "BIRC2",
+      "BIRC3"
+    ]
+  },
+  "core_death_modules": {
+    "Apoptosis": [
+      "CASP3",
+      "CASP7",
+      "CASP8",
+      "CASP9",
+      "BAX",
+      "BAK1",
+      "APAF1"
+    ],
+    "Pyroptosis": [
+      "GSDMD",
+      "CASP1",
+      "CASP4",
+      "CASP5"
+    ],
+    "Necroptosis": [
+      "RIPK3",
+      "MLKL"
+    ]
+  },
+  "single_cell_modules": {
+    "TCR_activation": [
+      "CD69",
+      "IL2RA",
+      "CD40LG",
+      "ICOS",
+      "EGR1",
+      "EGR3",
+      "FOSB",
+      "JUN",
+      "JUNB"
+    ],
+    "FAS_FASL_axis": [
+      "FAS",
+      "FASLG"
+    ],
+    "Cytotoxicity": [
+      "GZMA",
+      "GZMB",
+      "GZMK",
+      "GZMH",
+      "NKG7",
+      "GNLY",
+      "PRF1"
+    ],
+    "Proliferation": [
+      "MKI67",
+      "TOP2A",
+      "TYMS"
+    ],
+    "Naive_memory": [
+      "CCR7",
+      "SELL",
+      "TCF7",
+      "LEF1",
+      "IL7R"
+    ]
+  },
+  "panel_models": {
+    "A431": "ACH-001328",
+    "H460": "ACH-000463",
+    "HeLa": "ACH-001086",
+    "HepG2": "ACH-000739",
+    "SW837": "ACH-000421",
+    "T47D": "ACH-000147"
+  },
+  "drug_name_patterns": [
+    {
+      "pattern": "\\bazacitidine\\b",
+      "label": "azacitidine (DNMTi)"
+    },
+    {
+      "pattern": "\\bdecitabine\\b|5-aza-2.*deoxycytidine",
+      "label": "decitabine (DNMTi)"
+    },
+    {
+      "pattern": "\\bzebularine\\b",
+      "label": "zebularine (DNMTi)"
+    },
+    {
+      "pattern": "\\brg[-_ ]?108\\b",
+      "label": "RG-108 (DNMTi)"
+    },
+    {
+      "pattern": "lbh[-_ ]?589|\\bpanobinostat\\b",
+      "label": "LBH-589 / panobinostat (HDACi)"
+    },
+    {
+      "pattern": "\\bvorinostat\\b|\\bsaha\\b",
+      "label": "vorinostat / SAHA (HDACi)"
+    },
+    {
+      "pattern": "\\bentinostat\\b|ms[-_ ]?275",
+      "label": "entinostat / MS-275 (HDACi)"
+    },
+    {
+      "pattern": "\\bapicidin\\b",
+      "label": "apicidin (HDACi)"
+    },
+    {
+      "pattern": "tacedinaline|ci[-_ ]?994",
+      "label": "tacedinaline / CI-994 (HDACi)"
+    },
+    {
+      "pattern": "tubastatin\\s*a\\b",
+      "label": "tubastatin A (HDAC6i)"
+    },
+    {
+      "pattern": "isonicotinohydroxamic\\s*acid",
+      "label": "isonicotinohydroxamic acid (HDACi)"
+    },
+    {
+      "pattern": "\\bmerck\\s*60\\b",
+      "label": "Merck60 (HDAC1/2i)"
+    },
+    {
+      "pattern": "repligen\\s*136|\\bhdac\\s*3\\b|hdac3",
+      "label": "Repligen 136 (HDAC3i)"
+    },
+    {
+      "pattern": "\\bisox\\b|hdac6",
+      "label": "ISOX (HDAC6i)"
+    },
+    {
+      "pattern": "brd[-_ ]?a94377914",
+      "label": "BRD-A94377914 (HDAC1/2/3/6/8i)"
+    },
+    {
+      "pattern": "brd[-_ ]?k11533227",
+      "label": "BRD-K11533227 (HDAC1/2i)"
+    },
+    {
+      "pattern": "brd[-_ ]?k24690302",
+      "label": "BRD-K24690302 (HDAC1i)"
+    },
+    {
+      "pattern": "brd[-_ ]?k29313308",
+      "label": "BRD-K29313308 (HDAC3i)"
+    },
+    {
+      "pattern": "brd[-_ ]?k51490254",
+      "label": "BRD-K51490254 (HDAC6/8i)"
+    },
+    {
+      "pattern": "brd[-_ ]?k61166597",
+      "label": "BRD-K61166597 (HDACi)"
+    },
+    {
+      "pattern": "brd[-_ ]?k66532283",
+      "label": "BRD-K66532283 (HDAC1/2i)"
+    },
+    {
+      "pattern": "brd[-_ ]?k80183349",
+      "label": "BRD-K80183349 (HDAC1/2i)"
+    },
+    {
+      "pattern": "brd[-_ ]?k85133207",
+      "label": "BRD-K85133207 (HDAC1i)"
+    },
+    {
+      "pattern": "brd[-_ ]?k88742110",
+      "label": "BRD-K88742110 (HDAC8i)"
+    },
+    {
+      "pattern": "pandacostat",
+      "label": "pandacostat (pan-HDACi)"
+    }
+  ],
+  "cell_states": {
+    "0": "CCR7/IL7R/TCF7 memory-like T cells",
+    "1": "Activated transitional T cells",
+    "2": "Checkpoint-primed activated T cells",
+    "3": "GNLY/GZMB cytotoxic effector T cells",
+    "4": "GZMK/GZMH transitional cytotoxic T cells",
+    "5": "CCR7+ TCF7+ memory-like T cells",
+    "6": "Proliferating T cells",
+    "7": "CD69+/FASLG+ activated effector T cells"
+  },
+  "figure_2e_gene_groups": {
+    "TNF_IFN_input": [
+      "TNFRSF1A",
+      "TNFRSF1B",
+      "IFNGR1",
+      "IFNGR2",
+      "JAK1",
+      "JAK2",
+      "STAT1",
+      "IRF1",
+      "CYLD"
+    ],
+    "Apoptosis": [
+      "FAS",
+      "FASLG",
+      "FADD",
+      "CASP8",
+      "CASP3",
+      "CASP7",
+      "CASP9",
+      "BID",
+      "BAX",
+      "BAK1",
+      "BBC3",
+      "PMAIP1",
+      "APAF1",
+      "DIABLO"
+    ],
+    "Necroptosis": [
+      "RIPK1",
+      "RIPK3",
+      "MLKL"
+    ],
+    "Pyroptosis_inflammasome": [
+      "NLRP3",
+      "PYCARD",
+      "CASP1",
+      "GSDMD",
+      "GSDME",
+      "AIM2",
+      "IL1B",
+      "IL18"
+    ],
+    "Survival_brakes": [
+      "CFLAR",
+      "XIAP",
+      "BIRC2",
+      "BIRC3",
+      "BCL2",
+      "BCL2L1",
+      "MCL1"
+    ]
+  }
+}

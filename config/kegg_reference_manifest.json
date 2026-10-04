@@ -1,0 +1,17 @@
+[
+  {
+    "filename": "kegg_hsa_links.tsv",
+    "url": "https://rest.kegg.jp/link/pathway/hsa",
+    "sha256": "06fc6aa2bed0fa6c5a8e7a59dd8740f8301aeef754344cd162447ccdf7c8b5f9"
+  },
+  {
+    "filename": "kegg_hsa_pathways.tsv",
+    "url": "https://rest.kegg.jp/list/pathway/hsa",
+    "sha256": "345290b203a665fa7604f36ba51d78095a712c6c02820fb09fde82a5a90c0a3a"
+  },
+  {
+    "filename": "kegg_release.txt",
+    "url": "https://rest.kegg.jp/info/kegg",
+    "sha256": "3be94b4a5eb0a6ee0ce31b3138aaa55bcb495efacafe777f901244a1c398926d"
+  }
+]
