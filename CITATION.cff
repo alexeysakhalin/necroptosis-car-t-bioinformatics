@@ -1,0 +1,25 @@
+cff-version: 1.2.0
+message: "Please cite the accompanying manuscript and the source datasets when using this analysis."
+type: software
+title: "Loss of Necroptosis Drives Tumor Resistance to CAR-T-mediated Immunologic Cell Death: Analysis Code and Figure Data"
+version: 1.0.0
+authors:
+  - family-names: Levchuk
+    given-names: Ksenia
+  - family-names: Petukhov
+    given-names: Alexey
+  - family-names: Tursymbek
+    given-names: Shynggys
+  - family-names: Ilyassova
+    given-names: Bayansulu
+  - family-names: Barlev
+    given-names: Nikolai A.
+keywords:
+  - CAR T cells
+  - necroptosis
+  - apoptosis
+  - pyroptosis
+  - transcriptomics
+  - cancer
+doi: "10.5281/zenodo.23136820"
+repository-code: "https://github.com/alexeysakhalin/necroptosis-car-t-bioinformatics"
