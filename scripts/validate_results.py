@@ -109,6 +109,7 @@ protected = [path for path in (ROOT / "config").glob("*") if path.is_file()]
 protected += [path for path in (ROOT / "scripts").glob("*") if path.is_file() and not path.name.startswith("plot_")]
 protected += [path for path in (ROOT / "data/annotations").rglob("*") if path.is_file()]
 protected += [path for path in (ROOT / "results/tables").rglob("*") if path.is_file() and "validation" not in path.parts]
+protected = [path for path in protected if not path.name.endswith((".tmp", ".pyc")) and not any(part.startswith(".") or part == "__pycache__" for part in path.relative_to(ROOT).parts)]
 hashes = {str(path.relative_to(ROOT)): hashlib.sha256(path.read_bytes()).hexdigest() for path in sorted(protected)}
 report = {"stages_passed": [1, 2, 3], "checks_passed": len(checks),
           "scope": "Generated bioinformatics panels; bulk differential-expression fits are supplied inputs.",
