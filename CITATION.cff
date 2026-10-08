@@ -3,6 +3,7 @@ message: "Please cite the accompanying manuscript and the source datasets when u
 type: software
 title: "Loss of Necroptosis Drives Tumor Resistance to CAR-T-mediated Immunologic Cell Death: Analysis Code and Figure Data"
 version: 1.0.0
+date-released: 2026-10-04
 authors:
   - family-names: Levchuk
     given-names: Ksenia

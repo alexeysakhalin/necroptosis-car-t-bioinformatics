@@ -1,8 +1,8 @@
 # Necroptosis and CAR T cell resistance
 
-Analysis code, source tables and figure data accompanying **Loss of Necroptosis Drives Tumor Resistance to CAR-T-mediated Immunologic Cell Death**, by Ksenia Levchuk, Alexey Petukhov, Shynggys Tursymbek, Bayansulu Ilyassova and Nikolai A. Barlev.
+Analysis code accompanying **Tumor cell death competence shapes responses to CAR T cells and inflammatory cytokines**, by Ksenia Levchuk, Alexey Petukhov, Shynggys Tursymbek, Bayansulu Ilyassova and Nikolai A. Barlev. The archived version 1.0.0 retains its deposited title, **Loss of Necroptosis Drives Tumor Resistance to CAR-T-mediated Immunologic Cell Death: Analysis Code and Figure Data**.
 
-The analysis covers Figures 2D–E, 3D–G, 4A–D, S1C–E, S1G, S2I–J and S3A–C. Figure 6 is outside this package. The six-line correlation matrix underlying S1F and the primary experimental measurements underlying the remaining panels are not inputs to this analysis.
+The analysis covers Figures 2D–E, 3D–G, 4A–D, S1C–E, S1G, S2I–J and S3A–C. Figure 6 is a separate analysis: its [software repository](https://github.com/alexeysakhalin/tumor-model-comparison-patient-3d-2d) accompanies the [version 1.1.1 source-data archive](https://doi.org/10.5281/zenodo.22863363). That Zenodo archive contains derived data, methods, provenance, validation records and figure exports; the companion scripts are distributed through GitHub. Neither archive contains the separate spatial simulations in Supplementary Figures S5 and S6. The six-line correlation matrix underlying S1F and the primary experimental measurements underlying the remaining panels are not inputs to this analysis.
 
 The archived analysis and separate bulk and targeted single-cell source-table bundles are deposited under DOI [10.5281/zenodo.23136820](https://doi.org/10.5281/zenodo.23136820). The software repository is [alexeysakhalin/necroptosis-car-t-bioinformatics](https://github.com/alexeysakhalin/necroptosis-car-t-bioinformatics).
 
@@ -60,4 +60,4 @@ CTRPv2 supplies the drug-response measurements in S1G. The 25 paired observation
 
 ## Citation and attribution
 
-Use `CITATION.cff` for the analysis package and `docs/References_verified.bib` for the manuscript bibliography. Dataset and method references are listed in `docs/Additional_method_references.txt` and `docs/Data_sources.md`. The original data analysis and visualization contribution of Bayansulu Ilyassova is retained in the manuscript attribution.
+Use `CITATION.cff` to cite the archived analysis package. `docs/References_verified.bib` records the package bibliography; its reference identifiers are independent of the revised manuscript numbering. The DOI-based correspondence is given in `docs/Reference_number_mapping.csv`. Dataset and method references are listed in `docs/Additional_method_references.txt` and `docs/Data_sources.md`. The original data analysis and visualization contribution of Bayansulu Ilyassova is retained in the manuscript attribution.
