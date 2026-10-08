@@ -1,6 +1,6 @@
 # Reproducing the manuscript bioinformatics
 
-The release concerns **Loss of Necroptosis Drives Tumor Resistance to CAR-T-mediated Immunologic Cell Death**, by Levchuk, Petukhov, Tursymbek, Ilyassova and Barlev. It contains 19 analyzed panels in 18 PDF and 18 PNG files, with Figures 3D and 3E combined. Figure 6 is outside the analysis scope.
+Version 1.0.0 was archived under **Loss of Necroptosis Drives Tumor Resistance to CAR-T-mediated Immunologic Cell Death**, by Levchuk, Petukhov, Tursymbek, Ilyassova and Barlev; the current manuscript is titled **Tumor cell death competence shapes responses to CAR T cells and inflammatory cytokines**. It contains 19 analyzed panels in 18 PDF and 18 PNG files, with Figures 3D and 3E combined. Figure 6 is outside the analysis scope.
 
 ## Reference computation
 
@@ -30,4 +30,4 @@ The plotting script refuses result files that changed after numerical validation
 
 ## Boundary of the release
 
-S1F cannot be reconstructed from the available files because the paired six-cell-line source matrix is absent. Raw qPCR values and the transformation underlying S2C–D were not supplied, and the meaning of blank tiles in S2G is unresolved. The sequence-generation description in the submitted Methods also requires reconciliation with the accession metadata. These issues are recorded in the author review document and are not resolved by successful execution of the downstream pipeline.
+S1F cannot be reconstructed from the available files because the paired six-cell-line source matrix is absent. Raw qPCR values and the transformation underlying S2C–D were not supplied, and the meaning of blank tiles in S2G is unresolved. The release begins with processed source tables and therefore does not independently validate upstream sequencing methods or accession metadata. Successful execution of the downstream pipeline does not resolve these source-data limitations.

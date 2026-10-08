@@ -1,3 +1,5 @@
+Reference numbers 1–49 and BibTeX keys Reference1–Reference49 are stable identifiers for this analysis package. They are not the citation numbers of the revised manuscript. Reference_number_mapping.csv links these records and the additional method references to the manuscript bibliography by DOI.
+
 1. Montalvo MJ, Bandey IN, Rezvan A, Wu KL, Saeedi A, Kulkarni R, Li Y, An X, Sefat KMSR, Varadarajan N. Decoding the mechanisms of chimeric antigen receptor (CAR) T cell-mediated killing of tumors: insights from granzyme and Fas inhibition. Cell Death & Disease. 2024;15(2):109. https://doi.org/10.1038/s41419-024-06461-8
 
 2. Lin MJ, Charytonowicz D, Brody J. Measuring T-cell/CAR T-cell bystander tumor killing in vitro and in vivo. Immuno-Oncology and Immunotherapy - Part F (Methods in Cell Biology). 2026;Vol. 201, pp. 55-75. https://doi.org/10.1016/bs.mcb.2025.03.021
@@ -6,7 +8,7 @@
 
 4. Korell F, Berger TR, Maus MV. Understanding CAR T cell-tumor interactions: Paving the way for successful clinical outcomes. Med. 2022;3(8):538-564. https://doi.org/10.1016/j.medj.2022.05.001
 
-5. Larson RC, Kann MC, Bailey SR, Haradhvala NJ, Llopis PM, Bouffard AA, Scarfó I, Leick MB, Grauwet K, Berger TR, Stewart K, Anekal PV, Jan M, Joung J, Schmidts A, Ouspenskaia T, Law T, Regev A, Getz G, Maus MV. CAR T cell killing requires the IFNγR pathway in solid but not liquid tumours. Nature. 2022;604(7906):563-570. https://doi.org/10.1038/s41586-022-04585-5
+5. Larson RC, Kann MC, Bailey SR, Haradhvala NJ, Montero Llopis P, Bouffard AA, Scarfó I, Leick MB, Grauwet K, Berger TR, Stewart K, Anekal PV, Jan M, Joung J, Schmidts A, Ouspenskaia T, Law T, Regev A, Getz G, Maus MV. CAR T cell killing requires the IFNγR pathway in solid but not liquid tumours. Nature. 2022;604(7906):563-570. https://doi.org/10.1038/s41586-022-04585-5
 
 6. Boulch M, Cazaux M, Cuffel A, Guerin MV, Garcia Z, Alonso R, Lemaître F, Beer A, Corre B, Menger L, Grandjean CL, Morin F, Thieblemont C, Caillat-Zucman S, Bousso P. Tumor-intrinsic sensitivity to the pro-apoptotic effects of IFN-γ is a major determinant of CD4+ CAR T-cell antitumor activity. Nature Cancer. 2023;4(7):968-983. https://doi.org/10.1038/s43018-023-00570-7
 
@@ -18,7 +20,7 @@
 
 10. Ryan JA, Brunelle JK, Letai A. Heightened mitochondrial priming is the basis for apoptotic hypersensitivity of CD4 + CD8 + thymocytes. Proceedings of the National Academy of Sciences. 2010;107(29):12895-12900. https://doi.org/10.1073/pnas.0914878107
 
-11. Chonghaile TN, Sarosiek KA, Vo TT, Ryan JA, Tammareddi A, Moore VDG, Deng J, Anderson KC, Richardson P, Tai YT, Mitsiades CS, Matulonis UA, Drapkin R, Stone R, DeAngelo DJ, McConkey DJ, Sallan SE, Silverman L, Hirsch MS, Carrasco DR, Letai A. Pretreatment Mitochondrial Priming Correlates with Clinical Response to Cytotoxic Chemotherapy. Science. 2011;334(6059):1129-1133. https://doi.org/10.1126/science.1206727
+11. Ni Chonghaile T, Sarosiek KA, Vo TT, Ryan JA, Tammareddi A, Moore VDG, Deng J, Anderson KC, Richardson P, Tai YT, Mitsiades CS, Matulonis UA, Drapkin R, Stone R, DeAngelo DJ, McConkey DJ, Sallan SE, Silverman L, Hirsch MS, Carrasco DR, Letai A. Pretreatment Mitochondrial Priming Correlates with Clinical Response to Cytotoxic Chemotherapy. Science. 2011;334(6059):1129-1133. https://doi.org/10.1126/science.1206727
 
 12. Scaffidi C, Fulda S, Srinivasan A, Friesen C, Li F, Tomaselli KJ, Debatin KM, Krammer PH, Peter ME. Two CD95 (APO‐1/Fas) signaling pathways. The EMBO Journal. 1998;17(6):1675-1687. https://doi.org/10.1093/emboj/17.6.1675
 

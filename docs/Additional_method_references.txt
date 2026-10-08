@@ -1,17 +1,31 @@
-Seashore-Ludlow B, Rees MG, Cheah JH, Cokol M, Price EV, Coletti ME, et al. Harnessing Connectivity in a Large-Scale Small-Molecule Sensitivity Dataset. Cancer discovery. 2015;5:1210-1223. https://doi.org/10.1158/2159-8290.cd-15-0235
+Method references for the bioinformatics analysis. BibTeX keys are supplied in References_verified.bib; revised-manuscript numbers are mapped by DOI in Reference_number_mapping.csv.
 
-Rees MG, Seashore-Ludlow B, Cheah JH, Adams DJ, Price EV, Gill S, et al. Correlating chemical sensitivity and basal gene expression reveals mechanism of action. Nature chemical biology. 2016;12:109-116. https://doi.org/10.1038/nchembio.1986
+MethodSeashoreLudlow2015
+Seashore-Ludlow B, Rees MG, Cheah JH, Cokol M, Price EV, Coletti ME, et al. Harnessing Connectivity in a Large-Scale Small-Molecule Sensitivity Dataset. Cancer Discov. 2015;5(11):1210-1223. https://doi.org/10.1158/2159-8290.cd-15-0235
 
-Basu A, Bodycombe NE, Cheah JH, Price EV, Liu K, Schaefer GI, et al. An interactive resource to identify cancer genetic and lineage dependencies targeted by small molecules. Cell. 2013;154:1151-1161. https://doi.org/10.1016/j.cell.2013.08.003
+MethodRees2016
+Rees MG, Seashore-Ludlow B, Cheah JH, Adams DJ, Price EV, Gill S, et al. Correlating chemical sensitivity and basal gene expression reveals mechanism of action. Nat Chem Biol. 2016;12(2):109-116. https://doi.org/10.1038/nchembio.1986
 
-Liberzon A, Birger C, Thorvaldsdóttir H, Ghandi M, Mesirov JP, Tamayo P. The Molecular Signatures Database (MSigDB) hallmark gene set collection. Cell systems. 2015;1:417-425. https://doi.org/10.1016/j.cels.2015.12.004
+MethodBasu2013
+Basu A, Bodycombe NE, Cheah JH, Price EV, Liu K, Schaefer GI, et al. An Interactive Resource to Identify Cancer Genetic and Lineage Dependencies Targeted by Small Molecules. Cell. 2013;154(5):1151-1161. https://doi.org/10.1016/j.cell.2013.08.003
 
-Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA, et al. Gene set enrichment analysis: a knowledge-based approach for interpreting genome-wide expression profiles. Proceedings of the National Academy of Sciences of the United States of America. 2005;102:15545-15550. https://doi.org/10.1073/pnas.0506580102
+MethodLiberzon2015
+Liberzon A, Birger C, Thorvaldsdóttir H, Ghandi M, Mesirov JP, Tamayo P. The Molecular Signatures Database Hallmark Gene Set Collection. Cell Syst. 2015;1(6):417-425. https://doi.org/10.1016/j.cels.2015.12.004
 
-Hao Y, Stuart T, Kowalski MH, Choudhary S, Hoffman P, Hartman A, et al. Dictionary learning for integrative, multimodal and scalable single-cell analysis. Nature biotechnology. 2024;42:293-304. https://doi.org/10.1038/s41587-023-01767-y
+MethodSubramanian2005
+Subramanian A, Tamayo P, Mootha VK, Mukherjee S, Ebert BL, Gillette MA, et al. Gene set enrichment analysis: A knowledge-based approach for interpreting genome-wide expression profiles. Proc Natl Acad Sci U S A. 2005;102(43):15545-15550. https://doi.org/10.1073/pnas.0506580102
 
-Korotkevich G, Sukhov V, Budin N, Shpak B, Artyomov MN, Sergushichev A. Fast gene set enrichment analysis. bioRxiv. 2021;060012. Preprint. https://doi.org/10.1101/060012
+MethodHao2024
+Hao Y, Stuart T, Kowalski MH, Choudhary S, Hoffman P, Hartman A, et al. Dictionary learning for integrative, multimodal and scalable single-cell analysis. Nat Biotechnol. 2024;42(2):293-304. https://doi.org/10.1038/s41587-023-01767-y
 
-Ghandi M, Huang FW, Jané-Valbuena J, Kryukov GV, Lo CC, McDonald ER III, et al. Next-generation characterization of the Cancer Cell Line Encyclopedia. Nature. 2019;569(7757):503-508. https://doi.org/10.1038/s41586-019-1186-3
+MethodKorotkevich2021
+Korotkevich G, Sukhov V, Budin N, Shpak B, Artyomov MN, Sergushichev A. Fast gene set enrichment analysis. bioRxiv. 2021;060012 [preprint, version 3; posted 1 February 2021]. https://doi.org/10.1101/060012
 
-Gene Ontology Consortium, Aleksander SA, Balhoff J, Carbon S, et al. The Gene Ontology knowledgebase in 2023. Genetics. 2023;224(1):iyad031. https://doi.org/10.1093/genetics/iyad031
+MethodGhandi2019
+Ghandi M, Huang FW, Jané-Valbuena J, Kryukov GV, Lo CC, McDonald ER 3rd, et al. Next-generation characterization of the Cancer Cell Line Encyclopedia. Nature. 2019;569(7757):503-508. https://doi.org/10.1038/s41586-019-1186-3
+
+MethodGeneOntology2023
+Gene Ontology Consortium, Aleksander SA, Balhoff J, Carbon S, Cherry JM, Drabkin HJ, et al. The Gene Ontology knowledgebase in 2023. Genetics. 2023;224(1):iyad031. https://doi.org/10.1093/genetics/iyad031
+
+MethodKanehisa2025
+Kanehisa M, Furumichi M, Sato Y, Matsuura Y, Ishiguro-Watanabe M. KEGG: biological systems database as a model of the real world. Nucleic Acids Res. 2025;53(D1):D672-D677. https://doi.org/10.1093/nar/gkae909
